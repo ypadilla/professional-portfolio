@@ -306,6 +306,8 @@ footer {
 		display: none;
 	}
 
-
+	[class*="fa fa-cog fa-3x"] {
+		display: none;
+	}
 
 }
